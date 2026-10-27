@@ -1,0 +1,23 @@
+ARMAZÉM DOS PÃES — PROJETO DEMONSTRATIVO NEXUS
+
+Arquivos:
+- index.html: estrutura e conteúdo do site
+- style.css: identidade visual e responsividade
+- script.js: menu mobile e ano automático
+
+COMO VISUALIZAR
+1. Extraia o arquivo ZIP.
+2. Abra a pasta.
+3. Dê dois cliques em index.html para abrir no navegador.
+
+COMO PUBLICAR COM GITHUB + VERCEL
+1. Crie um repositório no GitHub.
+2. Envie index.html, style.css e script.js (o README também é opcional).
+3. No Vercel, importe o repositório.
+4. Para um site HTML/CSS/JS estático, normalmente não é necessário build command.
+5. Clique em Deploy.
+
+IMPORTANTE
+Este é um conceito de site independente para apresentação de portfólio. Não é um site oficial e não existe confirmação de autorização ou vínculo com o estabelecimento.
+As fotografias são ilustrativas e vêm de URLs externas do Unsplash. O conteúdo de cardápio é genérico, baseado nas categorias e itens citados nas informações fornecidas; não representa cardápio completo nem confirma preços/disponibilidade. Horários devem ser confirmados.
+Antes de oferecer/publicar para o estabelecimento, obtenha autorização e confirme informações, cardápio, preços, horários, canais de pedido, política de privacidade e direitos de uso das imagens/logotipo.
